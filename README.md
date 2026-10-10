@@ -83,5 +83,5 @@ Part of a broader portfolio of technical audio systems. Related projects:
 
 ## Author
 
-**Parth Rane** — Technical Sound Designer  
+**Parth Rane**: Technical Sound Designer  
 [Portfolio](https://parthraneaudio.github.io/) · [LinkedIn](https://uk.linkedin.com/in/parthraneprofile) · [YouTube](https://www.youtube.com/@ParthRaneAudio) · [GitHub](https://github.com/ParthRaneAudio)
