@@ -6,3 +6,9 @@ Saved/
 *.VC.db
 *.sln
 *.suo
+Content/Characters/
+Content/Input/
+Content/LevelPrototyping/
+Content/ThirdPerson/
+Content/__ExternalActors__/
+Content/__ExternalObjects__/
